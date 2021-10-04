@@ -17,7 +17,7 @@ neural networks. We will also feature information on our coding challenge at the
 |:---:|:------------:|----------------------------------------------------------------------|:--------:|
 |  0  | < Oct 4  | Testing the Notebook Environment                                     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_00%2Ftest_notebook_environment.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_00/test_notebook_environment.ipynb)|
 |  0  | < Oct 4  | Introduction to the Notebook Environment                             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_00%2Fintroduction_notebook.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_00/introduction_notebook.ipynb)|
-|  1  | Oct 4    | Python Basics        | tba |
+|  1  | Oct 4    | Python Basics        | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/main?filepath=lab_01%2Flab_01.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_01/lab_01.ipynb) |
 |  2  | Oct 18   | Numpy and Image Data  | tba |
 |  3  | Oct 25   | Supervised Learning with Scikit-learn                                     | tba |
 |     |          | *Coding Challenge Quickstart Notebook*                               | tba |
