@@ -23,7 +23,7 @@ neural networks. We will also feature information on our coding challenge at the
 |     |          | *Coding Challenge Quickstart Notebook*                               | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/main?filepath=challenge%2Fchallenge_kickstart.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/main/challenge/challenge_kickstart.ipynb) |
 |     |              | *Fall Semester Break!*                                             |            |
 |     | Nov 22   | *Coding Challenge Kick-off and Team Registration Deadline*            |            |
-|  4  | Nov 22   | Artificial Neural Networks: Training and Evaluation                  |  tba |
+|  4  | Nov 22   | Artificial Neural Networks: Training and Evaluation                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/main?filepath=lab_04%2Flab_04.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/main/lab_04/lab_04.ipynb)  |
 |  5  | Dec 6    | Convolutional Neural Network: Training and Evaluation                |   tba   |
 |     | Dec 13   | *Coding Challenge Clinic*                                |           |
 |     | Dec 17   | *Coding Challenge Final Presentation*                                |           | 
